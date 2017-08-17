@@ -1,0 +1,31 @@
+{
+    "name": "uber-ride-request",
+    "version": "1.0.0",
+    "dependencies": {
+        "axios": "^0.16.2",
+        "lodash": "^4.17.4"
+    },
+    "description": "Uber API calls to automate a ride request",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AntoinedeChassey/uber-ride-request.git"
+    },
+    "keywords": [
+        "Uber",
+        "API",
+        "automate"
+    ],
+    "author": "Antoine de Chassey",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AntoinedeChassey/uber-ride-request/issues"
+    },
+    "homepage": "https://github.com/AntoinedeChassey/uber-ride-request#readme"
+}
